@@ -64,7 +64,7 @@ cv:
         end_date: present
         highlights:
           - "Principal Investigator of the EU GREEN ERA-HUB FarmScan project."
-          - "Co-Principal Investigator of the ONR Target Re-Association for Autonomous Agents (TRAAA) project."
+          - "Principal Investigator of the ONR Target Re-Association for Autonomous Agents (TRAAA) project."
           - "Member of the PhD board in Computer Science and Artificial Intelligence; deputy PhD course coordinator from 2021 to 2024."
           - "Member of degree-course, quality-assurance, and internship committees for SCMTI since 2018."
           - "Teaching bachelor's, master's, and doctoral courses in computer science."
@@ -163,7 +163,7 @@ cv:
         end_date: 2028
 
       - name: "Target Re-Association for Autonomous Agents (TRAAA)"
-        summary: Co-Principal Investigator; Office of Naval Research project.
+        summary: Principal Investigator; Office of Naval Research project.
 
       - name: "Advanced Hardware/Software Components for Integrated/Embedded Vision Systems (ACHIEVE)"
         summary: University of Udine research-unit member; Marie Curie European Training Network.

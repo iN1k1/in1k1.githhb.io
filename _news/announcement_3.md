@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Serving as an Area Chair at CVPR 2026
-date: 2026-10-07
+title: New paper in Computer Vision and Image Understanding
+date: 2026-08-20
 inline: true
 related_posts: false
 ---
 
-I’m honored to serve as an Area Chair at CVPR 2026, helping shape the technical program of one of the leading conferences in computer vision and pattern recognition.
+[Pyramidal Anomaly Detection with State-Space Models](https://www.sciencedirect.com/science/article/pii/S1077314226002687) is out in *Computer Vision and Image Understanding*.
