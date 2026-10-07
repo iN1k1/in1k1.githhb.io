@@ -1,189 +1,268 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
-  image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  name: Niki Martinel
+  label: Associate Professor of Machine Learning and Computer Vision
+  location: Udine, Italy
+  image: prof_pic.jpg
+  summary: >-
+    Associate Professor at the University of Udine and member of the AVIRES/MLP Labs. Research interests include computer vision, machine learning,
+    visual tracking, person and vehicle re-identification, image colorization, food recognition, medical imaging, and super-resolution. Author or
+    co-author of more than 20 journal papers, 50 international conference papers, and 3 book chapters.
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
     - network: GitHub
-      username: example
+      username: iN1k1
     - network: LinkedIn
-      username: example
-
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+      username: niki-martinel
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
+      - institution: University of Udine
+        location: Udine, Italy
+        area: Industrial and Information Engineering
         studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+        start_date: 2014
+        end_date: 2017
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Thesis: Biologically-Inspired Hierarchical Learning Architectures for Image Classification."
+          - "Supervisor: Prof. Gian Luca Foresti."
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: University of Udine
+        location: Udine, Italy
+        area: Multimedia Communication
+        studyType: PhD
+        start_date: 2011
+        end_date: 2014
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Thesis: A Distributed Video Surveillance System to Track Persons in Camera Networks."
+          - "Supervisor: Dr. Christian Micheloni."
+
+      - institution: University of Udine
+        location: Udine, Italy
+        area: Multimedia Communication
+        studyType: Master's degree
+        start_date: 2008
+        end_date: 2010
+        highlights:
+          - "Thesis: Design and Development of a Dynamic User Interface for Video Surveillance Systems."
+          - "Graduated with 110/110 cum laude."
+
+      - institution: University of Udine
+        location: Udine, Italy
+        area: Multimedia Science and Technologies
+        studyType: Bachelor's degree
+        start_date: 2005
+        end_date: 2008
+        highlights:
+          - "Thesis: A Portal Designed for Querying XML Documents."
+          - "Graduated with 104/110."
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: University of Udine, AVIRES/MLP Labs
+        position: Associate Professor of Machine Learning and Computer Vision
+        location: Udine, Italy
+        start_date: 2021-12
+        end_date: present
         highlights:
-          - Relativity
-          - Description 2.
+          - "Principal Investigator of the EU GREEN ERA-HUB FarmScan project."
+          - "Co-Principal Investigator of the ONR Target Re-Association for Autonomous Agents (TRAAA) project."
+          - "Member of the PhD board in Computer Science and Artificial Intelligence; deputy PhD course coordinator from 2021 to 2024."
+          - "Member of degree-course, quality-assurance, and internship committees for SCMTI since 2018."
+          - "Teaching bachelor's, master's, and doctoral courses in computer science."
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: University of Udine
+        position: Assistant Professor (tenure track)
+        location: Udine, Italy
+        start_date: 2018-12
+        end_date: 2021-12
+
+      - company: University of Udine
+        position: Assistant Professor
+        location: Udine, Italy
+        start_date: 2018-05
+        end_date: 2018-12
+
+      - company: University of Udine
+        position: Postdoctoral Fellow
+        location: Udine, Italy
+        start_date: 2014-02
+        end_date: 2018-05
+        summary: Led research in person re-identification, pattern recognition, food recognition, and UAV-based aerial video surveillance.
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Developed incremental, geo-referenced mosaicking methods for small-scale UAVs."
+          - "Designed learning methods for person and group re-identification, food recognition, and neural-tree architectures."
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
+      - company: Eye-Tech S.r.l.
+        position: Advisory Board Member and Machine Learning Expert
+        location: Pordenone, Italy
+        start_date: 2015-12
+        end_date: 2017-05
+        summary: Led R&D in machine learning and computer vision for goalkeeper analysis, food understanding, and biometric access control.
 
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
+      - company: University of California, Riverside
+        position: Junior Specialist and Visiting Assistant Project Scientist
+        location: Riverside, California, USA
+        start_date: 2012
+        end_date: 2016
+        summary: Worked on person re-identification and projects funded by the Office of Naval Research and the National Science Foundation.
 
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
+      - company: InfoFactory S.r.l.
+        position: Computer Systems Analyst, Designer, and Developer
+        location: Udine, Italy
+        start_date: 2010
+        end_date: 2011
+        summary: Designed user interfaces and computer-vision tracking software for the European Commission-funded SRSNet project.
 
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+      - company: Mediastudio S.r.l.
+        position: Computer Systems Analyst, Designer, and Developer
+        location: Pordenone, Italy
+        start_date: 2008
+        end_date: 2010
+        summary: Designed graphical interfaces for 3D software and developed mobile applications.
+
+    Academic and Professional Service:
+      - company: Italian Chapter of the International Association for Pattern Recognition
+        position: Deputy Chief, Neural Networks and Deep Learning Technical Committee
+        start_date: 2017
+        end_date: present
+
+      - company: University of Udine
+        position: PhD board member and deputy PhD course coordinator
+        start_date: 2021
+        end_date: 2024
+
+      - company: CAAI Transactions on Intelligence Technology
+        position: Associate Editor
+        start_date: 2016
+        end_date: 2016
+
+      - company: Microprocessors and Microsystems
+        position: Handling/Associate Editor
+        start_date: 2020
+        end_date: 2020
+
+      - company: International Workshop on Distributed Smart Cameras
+        position: General Chair
+        start_date: 2021
+        end_date: 2022
+
+      - company: International Conference on Image Analysis and Processing
+        position: Publication Chair
+        start_date: 2023
+        end_date: 2023
+
+      - company: IEEE, ACM, and Springer conferences and journals
+        position: Technical Program Committee member and reviewer
+        start_date: 2013
+        end_date: present
+        summary: Service for computer vision and machine-learning venues including CVPR, ECCV, ICCV, WACV, AAAI, and NeurIPS.
+
+    Research Projects:
+      - name: "FarmScan: Field Analysis via Remote Monitoring and Sustainable, Decomposable Agricultural Nodes"
+        summary: Principal Investigator; EU GREEN ERA-HUB 2nd Call project.
+        start_date: 2025
+        end_date: 2028
+
+      - name: "Target Re-Association for Autonomous Agents (TRAAA)"
+        summary: Co-Principal Investigator; Office of Naval Research project.
+
+      - name: "Advanced Hardware/Software Components for Integrated/Embedded Vision Systems (ACHIEVE)"
+        summary: University of Udine research-unit member; Marie Curie European Training Network.
+        start_date: 2017
+        end_date: 2021
+
+      - name: "Prescriptive Situational Awareness for Cooperative Auto-Organizing Aerial Sensor Networks (PRESNET)"
+        summary: Research-unit member and work-package responsible.
+        start_date: 2016
+        end_date: 2019
+
+      - name: "MultiRobot-Human Coordination for Visual Scene Understanding"
+        summary: Research team member; National Science Foundation project IIS-1316934.
+        start_date: 2016
+        end_date: 2016
 
     Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - title: Best Paper Award
+        date: 2021-10
+        awarder: NATO IST-190 Research Symposium on AI, ML and BD for Hybrid Military Operations
+        summary: Awarded for "Robustness of Artificial Intelligence for Hybrid Warfare."
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      - title: Outstanding Reviewer
+        date: 2020-09
+        awarder: European Conference on Computer Vision
+        summary: Recognition for providing more than seven excellent reviews.
+
+      - title: Top Reviewer
+        date: 2021
+        awarder: IEEE/CVF Conference on Computer Vision and Pattern Recognition
+
+      - title: Best Industry Related Paper Award
+        date: 2016-12
+        awarder: International Conference on Pattern Recognition
+        summary: For "Distributed and Unsupervised Cost-Driven Person Re-identification."
+
+      - title: Best Paper Award
+        date: 2014-09
+        awarder: International Conference on Distributed Smart Cameras
+        summary: For "Sparse Matching of Random Patches for Person Re-Identification."
+
+      - title: Best Paper Award nomination
+        date: 2018-09
+        awarder: International Conference on Distributed Smart Cameras
+        summary: For "Unsupervised Hashing with Neural Trees for Image Retrieval and Person Re-Identification."
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: "IDENet: Implicit Degradation Estimation Network for Efficient Blind Super Resolution"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - Asif Hussain Khan
+          - Christian Micheloni
+          - Niki Martinel
+        publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition
+        releaseDate: 2024
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      - title: "Tracking Skiers from the Top to the Bottom"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+          - Matteo Dunnhofer
+          - Luca Sordi
+          - Niki Martinel
+          - Christian Micheloni
+        publisher: Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision
+        releaseDate: 2024
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+      - title: "Unsupervised Hashing with Neural Trees for Image Retrieval and Person Re-Identification"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - Niki Martinel
+          - Gian Luca Foresti
+          - Christian Micheloni
+        publisher: International Conference on Distributed Smart Cameras
+        releaseDate: 2018
+
+      - title: "Distributed and Unsupervised Cost-Driven Person Re-identification"
+        authors:
+          - Niki Martinel
+          - Gian Luca Foresti
+          - Christian Micheloni
+        publisher: International Conference on Pattern Recognition
+        releaseDate: 2016
 
     Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: Machine Learning
+        keywords: Neural networks, deep learning, metric learning, neural trees, extreme learning machines, support vector machines, incremental learning, optimization
+
+      - name: Computer Vision
+        keywords: Visual understanding, recognition, detection, tracking, feature learning, feature matching, temporal adaptation, image processing
+
+      - name: Autonomous and Unmanned Systems
+        keywords: UGVs, UAVs, autonomous navigation, visual analytics, ROS, Arduino, Raspberry Pi
+
+      - name: Programming and Tools
+        keywords: Python, C/C++, C#, Objective-C, Lua, MATLAB, SQL, PyTorch, Visual Studio, PyCharm, Xcode, MySQL
+
+      - name: Web Technologies
+        keywords: HTML5, AJAX, PHP, JavaScript, CSS, SQL
 
     Languages:
-      - name: German
-        summary: "Native speaker"
+      - name: Italian
+        summary: Native
 
       - name: English
-        summary: "Fluent"
-
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+        summary: Highly proficient in spoken and written English
