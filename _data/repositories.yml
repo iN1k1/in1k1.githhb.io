@@ -1,14 +1,20 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - iN1k1
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - iN1k1/ce-vae-underwater-image-enhancement
+  - iN1k1/physics-informed-ce-vae-underwater-image-enhancement
+  - iN1k1/deep-pyramidal-representations-person-re-identification
+  - iN1k1/DCIA_Person_Re-Identification_Reranking
+  - iN1k1/KEPLER
+  - iN1k1/Sparse-Re-Identification
+  - iN1k1/ALRM
+  - iN1k1/CVPR2012
+  - iN1k1/OGRE-Outdoor_Group_Person_Re-Identification_Dataset
+  - iN1k1/lightning-project-skeleton
+  - iN1k1/gpu-monitoring-for-slack
+  - iN1k1/ac_conference_helper
+  - iN1k1/smart-iot-devices-uniud
+  - iN1k1/image-and-natural-language-processing-uniud
