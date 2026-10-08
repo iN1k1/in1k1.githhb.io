@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-[Pyramidal Anomaly Detection with State-Space Models](https://www.sciencedirect.com/science/article/pii/S1077314226002687) is out in *Computer Vision and Image Understanding*.
+[Pyramidal Anomaly Detection with State-Space Models](https://www.sciencedirect.com/science/article/pii/S1077314226002687) is out in _Computer Vision and Image Understanding_.

@@ -23,7 +23,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-
 I am an Associate Professor at the University of Udine, working with the AVIRES/MLP Labs on machine learning and computer vision. My research spans visual tracking and person and vehicle re-identification, as well as image colorization, food recognition, medical imaging, and super-resolution.
 
 I am the Principal Investigator of the ONR TRAAA (Target Re-Association for Autonomous Agents) project and of **FarmScan** (Field Analysis via Remote Monitoring and Sustainable, Decomposable Agricultural Nodes), funded by the EU GREEN ERA-HUB. I teach computer science at bachelor, master, and doctoral levels, and contribute to the research community through conference organization, editorial service, and doctoral supervision.
